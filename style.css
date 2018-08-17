@@ -16,7 +16,7 @@ a {
  padding-right: 10px;
 }
 #details {
-  
+   width: 100%;
   display: block;
  column-count: 4;
  padding-right: 1px;
