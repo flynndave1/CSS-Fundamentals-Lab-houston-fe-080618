@@ -27,7 +27,8 @@ a {
   background: red;
 }
 #details div {
- 
+ padding-right: 1px;
+  padding-left: 1px;
   float: left;
   
   
